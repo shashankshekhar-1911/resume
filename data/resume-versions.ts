@@ -84,12 +84,12 @@ export const resumeVersion1: ResumeData = {
       period: "February 2023 — Present",
       achievements: [
         "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
-        "[Digital Transformation] Led a massive org-wide shift from ad-hoc operations to **Jira-enabled Agile processes**, significantly increasing delivery throughput and transparency",
-        "[Process Automation] Spearheaded the digitization of client onboarding, while accommodating **Human-In-The-Loop (HITL)** interventions, utilizing workflow orchestration to **slash cycle time by 90%** (2 weeks to <1 day)",
-        "[Value Creation] Delivered **$150K annual savings** by re-engineering data acquisition processes, optimizing for no-vegetation areas to reduce unnecessary spend",
-        "[Client Success] Oversaw digital adoption for 30+ enterprise accounts (>$15M ARR), achieving **>100% NDR** through value-driven consulting and deep cross-functional alignment",
-        "[Innovation] Deployed a **GenAI (RAG) solution** to transform the customer support function, automating responses and enabling predictive issue pattern recognition. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
-        "[Governance] Established a rigorous qualification framework for customisation requests, preventing operational bloat and ensuring alignment with long-term strategic goals"
+        "(Digital Transformation) Led a massive org-wide shift from ad-hoc operations to **Jira-enabled Agile processes**, significantly increasing delivery throughput and transparency",
+        "(Process Automation) Spearheaded the digitization of client onboarding, while accommodating **Human-In-The-Loop (HITL)** interventions, utilizing workflow orchestration to **slash cycle time by 90%** (2 weeks to 1 day)",
+        "(Value Creation) Delivered **$150K annual savings** by re-engineering data acquisition processes, optimizing for no-vegetation areas to reduce unnecessary spend",
+        "(Client Success) Oversaw digital adoption for 30+ enterprise accounts ($15M+ ARR), achieving **over-100% NDR** through value-driven consulting and deep cross-functional alignment",
+        "(Innovation) Deployed a **GenAI (RAG) solution** to transform the customer support function, automating responses and enabling predictive issue pattern recognition. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
+        "(Governance) Established a rigorous qualification framework for customisation requests, preventing operational bloat and ensuring alignment with long-term strategic goals"
       ],
     },
     {
@@ -99,7 +99,7 @@ export const resumeVersion1: ResumeData = {
       period: "April 2020 — October 2022",
       achievements: [
         'Conceptualized and executed on Gramoday- A B2B social network marketplace for farmers, traders and bulk buyers ("LinkedIn for Agriculture") that solves for market information asymmetry and discovery for P2P transactions (Android App & Web App)',
-        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (>90% being organically acquired), along with 2 web products (external and internal facing)",
+        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (over-90% being organically acquired), along with 2 web products (external and internal facing)",
         "Built a strong founding team of IIT graduates with 5+ years of experience from diverse backgrounds each on a shoestring budget and raised a small angel equity capital round and equity-free grant from Govt. of India",
         "Owned the product and design side of product development including writing extensive PRDs for developers, prioritizing issues, agile-based development processes and designing the high-fidelity prototypes (UI/UX) for all 3 products and co-designing the web services and databases",
         "Reduced the on-boarding time for new engineers to 2 days by designing a self-serving workflow on Jira starting from knowing about Gramoday to fixing a bug in tech-debt",
@@ -117,7 +117,7 @@ export const resumeVersion1: ResumeData = {
         "Conceptualized and executed on Agrilinks - a full stack managed marketplace for fruits and vegetables connecting farmers, mandis and retailers",
         "Operated a daily throughput of 1.5 tons per day of produce totaling to over INR 25+ lakhs in sales over 6 months with a 20% operating margin",
         "Provided over 20% premium to farmers for farm-sourced SKUs",
-        "Ensured timely delivery and < 1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
+        "Ensured timely delivery and sub-1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
       ],
     },
     {
@@ -221,12 +221,12 @@ export const resumeVersion2: ResumeData = {
       period: "February 2023 — Present",
       achievements: [
         "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
-        "[P&L Impact] Protected and grew $15M+ ARR (~50% of revenue), securing **>100% Net Dollar Retention** through rigorous business value consulting and **operational excellence** in delivering satellite analytics and software deployment for 30+ enterprise customers",
-        "[Cost Rationalisation] Directly improved **EBITDA margins** by re-engineering satellite imagery acquisition and optimising for area of interest to detect no-vegetation areas to reduce unnecessary spend, thereby, saving **$150K annually**",
-        "[Operational Scalability] Fixed a critical bottleneck by automating customer onboarding, reducing **Time-To-Value from 2 weeks to <1 day** to accelerate revenue recognition and customer activation",
-        "[Operational Efficiency] Established a rigorous **global prioritisation framework** for high-cost (human and infrastructure) tasks across a constrained supply chain to optimise resource efficiency and prevent operational bloat",
-        "[Tech Due Diligence] Classified and ranked software customisations implemented across 50+ customers as part of moving the system from single-tenancy to multi-tenancy. Contributed to multiple NFR-focused initiatives by consolidating inputs from customer success function",
-        "[Tech Enablement] Leveraged **Agentic AI** to automate low-value support tasks, reducing headcount pressure and improving resolution times. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)"
+        "(P&L Impact) Protected and grew $15M+ ARR (50% of revenue), securing **over-100% Net Dollar Retention** through rigorous business value consulting and **operational excellence** in delivering satellite analytics and software deployment for 30+ enterprise customers",
+        "(Cost Rationalisation) Directly improved **EBITDA margins** by re-engineering satellite imagery acquisition and optimising for area of interest to detect no-vegetation areas to reduce unnecessary spend, thereby, saving **$150K annually**",
+        "(Operational Scalability) Fixed a critical bottleneck by automating customer onboarding, reducing **Time-To-Value from 2 weeks to 1 day** to accelerate revenue recognition and customer activation",
+        "(Operational Efficiency) Established a rigorous **global prioritisation framework** for high-cost (human and infrastructure) tasks across a constrained supply chain to optimise resource efficiency and prevent operational bloat",
+        "(Tech Due Diligence) Classified and ranked software customisations implemented across 50+ customers as part of moving the system from single-tenancy to multi-tenancy. Contributed to multiple NFR-focused initiatives by consolidating inputs from customer success function",
+        "(Tech Enablement) Leveraged **Agentic AI** to automate low-value support tasks, reducing headcount pressure and improving resolution times. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)"
       ],
     },
     {
@@ -236,7 +236,7 @@ export const resumeVersion2: ResumeData = {
       period: "April 2020 — October 2022",
       achievements: [
         'Conceptualized and executed on Gramoday- A B2B social network marketplace for farmers, traders and bulk buyers ("LinkedIn for Agriculture") that solves for market information asymmetry and discovery for P2P transactions (Android App & Web App)',
-        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (>90% being organically acquired), along with 2 web products (external and internal facing)",
+        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (over-90% being organically acquired), along with 2 web products (external and internal facing)",
         "Built a strong founding team of IIT graduates with 5+ years of experience from diverse backgrounds each on a shoestring budget and raised a small angel equity capital round and equity-free grant from Govt. of India",
         "Owned the product and design side of product development including writing extensive PRDs for developers, prioritizing issues, agile-based development processes and designing the high-fidelity prototypes (UI/UX) for all 3 products and co-designing the web services and databases",
         "Reduced the on-boarding time for new engineers to 2 days by designing a self-serving workflow on Jira starting from knowing about Gramoday to fixing a bug in tech-debt",
@@ -254,7 +254,7 @@ export const resumeVersion2: ResumeData = {
         "Conceptualized and executed on Agrilinks - a full stack managed marketplace for fruits and vegetables connecting farmers, mandis and retailers",
         "Operated a daily throughput of 1.5 tons per day of produce totaling to over INR 25+ lakhs in sales over 6 months with a 20% operating margin",
         "Provided over 20% premium to farmers for farm-sourced SKUs",
-        "Ensured timely delivery and < 1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
+        "Ensured timely delivery and sub-1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
       ],
     },
     {
@@ -357,12 +357,12 @@ export const resumeVersion3: ResumeData = {
       period: "February 2023 — Present",
       achievements: [
         "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
-        "[Customer Success] Led business value consulting and project management for analytics delivery and software deployment for 30+ enterprise customers (>$15M ARR) resulting in **>100% NDR** and gaining insight into future revenue-generating features for large enterprises",
-        "[Platform Scalability] Led the strategic migration from single-tenant to multi-tenant architecture, converting bespoke customisations to 50+ customers into scalable General Availability (GA) features and building qualification framework for new customisation requests",
-        "[Onboarding Efficiency] Reduced **Time-To-Value from 2 weeks to <1 day** by building an internal orchestration tool to automate customer onboarding while accommodating Human-In-The-Loop (HITL) interventions",
-        "[Feature Prioritisation] Instituted a **Global Priority framework** to manage resource-constrained backlogs for 80+ enterprise customers, balancing technical debt against new feature requests",
-        "[AI Product Leadership] Deployed a **RAG-based agentic AI system** for intelligent classification of support tickets across themes, severity, etc. and generating client-facing responses, thereby, improving SLAs for First Response Time and Resolution Time. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
-        "[Unit Economics] Improved product margins by optimising the satellite imagery algorithm, cutting data acquisition costs by **15% ($150K/year)**"
+        "(Customer Success) Led business value consulting and project management for analytics delivery and software deployment for 30+ enterprise customers ($15M ARR) resulting in **over-100% NDR** and gaining insight into future revenue-generating features for large enterprises",
+        "(Platform Scalability) Led the strategic migration from single-tenant to multi-tenant architecture, converting bespoke customisations to 50+ customers into scalable General Availability (GA) features and building qualification framework for new customisation requests",
+        "(Onboarding Efficiency) Reduced **Time-To-Value from 2 weeks to 1 day** by building an internal orchestration tool to automate customer onboarding while accommodating Human-In-The-Loop (HITL) interventions",
+        "(Feature Prioritisation) Instituted a **Global Priority framework** to manage resource-constrained backlogs for 80+ enterprise customers, balancing technical debt against new feature requests",
+        "(AI Product Leadership) Deployed a **RAG-based agentic AI system** for intelligent classification of support tickets across themes, severity, etc. and generating client-facing responses, thereby, improving SLAs for First Response Time and Resolution Time. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
+        "(Unit Economics) Improved product margins by optimising the satellite imagery algorithm, cutting data acquisition costs by **15% ($150K/year)**"
       ],
     },
     {
@@ -372,7 +372,7 @@ export const resumeVersion3: ResumeData = {
       period: "April 2020 — October 2022",
       achievements: [
         'Conceptualized and executed on Gramoday- A B2B social network marketplace for farmers, traders and bulk buyers ("LinkedIn for Agriculture") that solves for market information asymmetry and discovery for P2P transactions (Android App & Web App)',
-        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (>90% being organically acquired), along with 2 web products (external and internal facing)",
+        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (over-90% being organically acquired), along with 2 web products (external and internal facing)",
         "Built a strong founding team of IIT graduates with 5+ years of experience from diverse backgrounds each on a shoestring budget and raised a small angel equity capital round and equity-free grant from Govt. of India",
         "Owned the product and design side of product development including writing extensive PRDs for developers, prioritizing issues, agile-based development processes and designing the high-fidelity prototypes (UI/UX) for all 3 products and co-designing the web services and databases",
         "Reduced the on-boarding time for new engineers to 2 days by designing a self-serving workflow on Jira starting from knowing about Gramoday to fixing a bug in tech-debt",
@@ -390,7 +390,7 @@ export const resumeVersion3: ResumeData = {
         "Conceptualized and executed on Agrilinks - a full stack managed marketplace for fruits and vegetables connecting farmers, mandis and retailers",
         "Operated a daily throughput of 1.5 tons per day of produce totaling to over INR 25+ lakhs in sales over 6 months with a 20% operating margin",
         "Provided over 20% premium to farmers for farm-sourced SKUs",
-        "Ensured timely delivery and < 1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
+        "Ensured timely delivery and sub-1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
       ],
     },
     {
@@ -493,11 +493,11 @@ export const resumeVersion4: ResumeData = {
       period: "February 2023 — Present",
       achievements: [
         "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
-        "[Program Management] Led business value consulting and project management for analytics delivery and software deployment for 30+ enterprise customers (>$15M ARR) resulting in **>100% NDR** through deep cross-functional alignment across Product, Engineering, GIS, Data Science, Platform and Professional Services",
-        "[Operational Efficiency] Led a massive **org-wide shift** from ad-hoc operations of satellite analytics and software delivery operations to **Jira-enabled Agile processes**, significantly improving on-time delivery rates and resolving communication silos",
-        "[Executive Projects] Led high-stakes cost optimisation exercise with a goal to **improve Gross Margin by 6%**. Directly contributed to satellite imagery cost reduction by optimising area of interest algorithm to detect no-vegetation areas, resulting in **$150K savings**",
-        "[Innovation Culture] Championed internal AI adoption by building a **RAG-based support agent**, demonstrating the practical application of GenAI to leadership. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
-        "[Workflow Optimisation] Diagnosed and fixed a slow broken onboarding process, building an automation tool that reduced **setup time by 90%** (2 weeks to <1 day)",
+        "(Program Management) Led business value consulting and project management for analytics delivery and software deployment for 30+ enterprise customers ($15M ARR) resulting in **over-100% NDR** through deep cross-functional alignment across Product, Engineering, GIS, Data Science, Platform and Professional Services",
+        "(Operational Efficiency) Led a massive **org-wide shift** from ad-hoc operations of satellite analytics and software delivery operations to **Jira-enabled Agile processes**, significantly improving on-time delivery rates and resolving communication silos",
+        "(Executive Projects) Led high-stakes cost optimisation exercise with a goal to **improve Gross Margin by 6%**. Directly contributed to satellite imagery cost reduction by optimising area of interest algorithm to detect no-vegetation areas, resulting in **$150K savings**",
+        "(Innovation Culture) Championed internal AI adoption by building a **RAG-based support agent**, demonstrating the practical application of GenAI to leadership. @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
+        "(Workflow Optimisation) Diagnosed and fixed a slow broken onboarding process, building an automation tool that reduced **setup time by 90%** (2 weeks to 1 day)",
       ],
     },
     {
@@ -507,7 +507,7 @@ export const resumeVersion4: ResumeData = {
       period: "April 2020 — October 2022",
       achievements: [
         'Conceptualized and executed on Gramoday- A B2B social network marketplace for farmers, traders and bulk buyers ("LinkedIn for Agriculture") that solves for market information asymmetry and discovery for P2P transactions (Android App & Web App)',
-        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (>90% being organically acquired), along with 2 web products (external and internal facing)",
+        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (over-90% being organically acquired), along with 2 web products (external and internal facing)",
         "Built a strong founding team of IIT graduates with 5+ years of experience from diverse backgrounds each on a shoestring budget and raised a small angel equity capital round and equity-free grant from Govt. of India",
         "Owned the product and design side of product development including writing extensive PRDs for developers, prioritizing issues, agile-based development processes and designing the high-fidelity prototypes (UI/UX) for all 3 products and co-designing the web services and databases",
         "Reduced the on-boarding time for new engineers to 2 days by designing a self-serving workflow on Jira starting from knowing about Gramoday to fixing a bug in tech-debt",
@@ -525,7 +525,7 @@ export const resumeVersion4: ResumeData = {
         "Conceptualized and executed on Agrilinks - a full stack managed marketplace for fruits and vegetables connecting farmers, mandis and retailers",
         "Operated a daily throughput of 1.5 tons per day of produce totaling to over INR 25+ lakhs in sales over 6 months with a 20% operating margin",
         "Provided over 20% premium to farmers for farm-sourced SKUs",
-        "Ensured timely delivery and < 1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
+        "Ensured timely delivery and sub-1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
       ],
     },
     {
@@ -627,12 +627,12 @@ export const resumeVersion5: ResumeData = {
       period: "February 2023 — Present",
       achievements: [
         "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
-        "[Solution Architecture] Designed and implemented a workflow orchestration engine using Temporal, automating complex single-tenant provisioning to **cut deployment time from >2 weeks to <1 day**",
-        "[Technical Delivery] Managed the technical rollout for $15M+ ARR of contracts across 30+ enterprise customers, resulting in **>100% NDR** through deep cross-functional alignment across Product, Engineering, GIS, Data Science, Platform and Professional Services",
-        "[Customisation Strategy] Led the technical analysis to map 50+ custom client hacks into standard Multi-Tenant features, reducing the support burden on Engineering",
-        "[AI Engineering] Hands-on development of a **RAG-based AI agent** to parse support tickets and generate technical responses, directly improving MTTR (Mean Time To Resolve). @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
-        "[Algorithm Optimisation] Tweaked the core satellite imagery acquisition algorithm to exclude non-relevant areas such as no-vegetation patches, etc. and saving **$150K/year in COGS**",
-        "[SLA Management] Deployed a **Global Priority algorithm** to dynamically schedule jobs on constrained infrastructure, ensuring adherence to strict enterprise SLAs"
+        "(Solution Architecture) Designed and implemented a workflow orchestration engine using Temporal, automating complex single-tenant provisioning to **cut deployment time from over-2 weeks to 1 day**",
+        "(Technical Delivery) Managed the technical rollout for $15M+ ARR of contracts across 30+ enterprise customers, resulting in **over-100% NDR** through deep cross-functional alignment across Product, Engineering, GIS, Data Science, Platform and Professional Services",
+        "(Customisation Strategy) Led the technical analysis to map 50+ custom client hacks into standard Multi-Tenant features, reducing the support burden on Engineering",
+        "(AI Engineering) Hands-on development of a **RAG-based AI agent** to parse support tickets and generate technical responses, directly improving MTTR (Mean Time To Resolve). @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
+        "(Algorithm Optimisation) Tweaked the core satellite imagery acquisition algorithm to exclude non-relevant areas such as no-vegetation patches, etc. and saving **$150K/year in COGS**",
+        "(SLA Management) Deployed a **Global Priority algorithm** to dynamically schedule jobs on constrained infrastructure, ensuring adherence to strict enterprise SLAs"
       ],
     },
     {
@@ -642,7 +642,7 @@ export const resumeVersion5: ResumeData = {
       period: "April 2020 — October 2022",
       achievements: [
         'Conceptualized and executed on Gramoday- A B2B social network marketplace for farmers, traders and bulk buyers ("LinkedIn for Agriculture") that solves for market information asymmetry and discovery for P2P transactions (Android App & Web App)',
-        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (>90% being organically acquired), along with 2 web products (external and internal facing)",
+        "Grew the mobile app adoption to 20% DAU/MAU, 4.5-star rating, 25%+ terminal retention rates and 50K+ users (over-90% being organically acquired), along with 2 web products (external and internal facing)",
         "Built a strong founding team of IIT graduates with 5+ years of experience from diverse backgrounds each on a shoestring budget and raised a small angel equity capital round and equity-free grant from Govt. of India",
         "Owned the product and design side of product development including writing extensive PRDs for developers, prioritizing issues, agile-based development processes and designing the high-fidelity prototypes (UI/UX) for all 3 products and co-designing the web services and databases",
         "Reduced the on-boarding time for new engineers to 2 days by designing a self-serving workflow on Jira starting from knowing about Gramoday to fixing a bug in tech-debt",
@@ -660,7 +660,7 @@ export const resumeVersion5: ResumeData = {
         "Conceptualized and executed on Agrilinks - a full stack managed marketplace for fruits and vegetables connecting farmers, mandis and retailers",
         "Operated a daily throughput of 1.5 tons per day of produce totaling to over INR 25+ lakhs in sales over 6 months with a 20% operating margin",
         "Provided over 20% premium to farmers for farm-sourced SKUs",
-        "Ensured timely delivery and < 1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
+        "Ensured timely delivery and sub-1% returns (industry benchmark is 15%+) by setting up SOPs at the warehouses, mapping transportation routes and training labor",
       ],
     },
     {
