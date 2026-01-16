@@ -627,12 +627,12 @@ export const resumeVersion5: ResumeData = {
       period: "February 2023 — Present",
       achievements: [
         "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
-        "(Solution Architecture) Designed and implemented a workflow orchestration engine using Temporal, automating complex single-tenant provisioning to **cut deployment time from over-2 weeks to 1 day**",
-        "(Technical Delivery) Managed the technical rollout for $15M+ ARR of contracts across 30+ enterprise customers, resulting in **over-100% NDR** through deep cross-functional alignment across Product, Engineering, GIS, Data Science, Platform and Professional Services",
-        "(Customisation Strategy) Led the technical analysis to map 50+ custom client hacks into standard Multi-Tenant features, reducing the support burden on Engineering",
-        "(AI Engineering) Hands-on development of a **RAG-based AI agent** to parse support tickets and generate technical responses, directly improving MTTR (Mean Time To Resolve). @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
-        "(Algorithm Optimisation) Tweaked the core satellite imagery acquisition algorithm to exclude non-relevant areas such as no-vegetation patches, etc. and saving **$150K/year in COGS**",
-        "(SLA Management) Deployed a **Global Priority algorithm** to dynamically schedule jobs on constrained infrastructure, ensuring adherence to strict enterprise SLAs"
+        "(Value Consulting) Orchestrated end-to-end value journeys for 30+ enterprise accounts ($15M+ ARR), navigating complex multi-disciplinary environments (Data Science, GIS, Engineering) to achieve >100% NDR and secure long-term renewals through data-driven business cases and executive-level roadmaps",
+        "(Operational Efficiency) Led the product developement of an in-house workflow orchestration tool that reduced customer onboarding Time-to-Value from ~2 weeks to <1 day, removing critical bottlenecks in the deployment phase of the customer value journey",
+        "(Process Intelligence) Led the organizational transition from single-tenant to multi-tenant systems by analyzing business flows across 50+ customers; identified and standardized high-value customizations into GA product features, effectively reducing technical debt while accelerating platform adoption",
+        "(AI Innovation) Won the AiDASH AI Hackathon by developing a RAG-based agentic AI system to classify support ticket patterns and automate client-facing responses; improved First Response and Resolution Time SLAs, demonstrating the ability to turn emerging AI tech into measurable business impact.  @Demo video here@(https://www.loom.com/share/cbfc9a2870864efabc589efcd0dcb367)",
+        "(Value Engineering) Identified and captured a $150K (15%) annual cost-saving opportunity in satellite imagery spend by architecting an AOI optimization algorithm; balanced technical error budgets with customer pricing tiers to maximize margin without compromising data integrity",
+        "(Change Management) Conceptualized and spearheaded an org-wide shift to a templatized, Jira-enabled agile delivery framework for satellite analytics; optimized delivery operations to increase throughput and transparency, directly improving Time-to-Value for global enterprise stakeholders."
       ],
     },
     {
