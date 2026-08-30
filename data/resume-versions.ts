@@ -78,12 +78,12 @@ export const resumeVersion1: ResumeData = {
 
   employment: [
     {
-      title: "Senior Manager, Technical Customer Success",
+      title: "Principal Product Manager",
       company: "AiDash",
       location: "Gurgaon",
       period: "February 2023 — Present",
       achievements: [
-        "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
+        "Started in Customer Success function, a year later moved to Professional Services and then to Product Management. All switches were led by company priorities and curiosity to solve complex cross-functional technical problems. Currently, reporting to **Field CTO**",
         "(Digital Transformation) Led a massive org-wide shift from ad-hoc operations to **Jira-enabled Agile processes**, significantly increasing delivery throughput and transparency",
         "(GTM Enablement) Led development of an in-house GTM-enablement product that **unified customer data** across Salesforce, CS systems and product configuration, and converted high-touch workflows (e.g. onboarding) to self-serve; **slashed onboarding from 2 weeks to 1 day** and gave CSMs a 360° view of usage, NPS and configuration",
         "(Workflow Orchestration) Engineered the **Insights Delivery Orchestration System (IDOS)**, converting a high-touch, 5-function satellite analytics pipeline (CSM, PM, GIS, Data Science, etc.) into a near-touchless process with human review gates; achieved **3x throughput**, **5%+ project gross margin improvement**, and **50% faster time-to-value**",
@@ -144,9 +144,9 @@ export const resumeVersion1: ResumeData = {
       grades: "CGPA 8.2/10",
     },
     {
-      degree: "Level 3 Candidate",
+      degree: "Level 2 Cleared",
       institution: "CFA Institute",
-      period: "August 2026",
+      period: "2017",
     },
   ],
 
@@ -212,16 +212,16 @@ export const resumeVersion2: ResumeData = {
   hobbies: ["Travelling (~25 countries)", "Cultural exploration", "Music", "Marathon"],
 
   profile:
-    "A Value Creation Specialist (10 YoE) focused on optimising corporate performance across commercial and operational levers. My profile combines Investment Acumen (CFA Level 3 Candidate & Nomura Investment Strategy) with deep SaaS Operating Expertise (scaling Customer Success/Delivery for a Series-C AI/SaaS platform). I possess a proven ability to diagnose bottlenecks, fix operational inefficiencies, implement margin-boosting initiatives, and drive strategic shifts (e.g., multi-tenant architecture migration) to maximise enterprise asset value for exit",
+    "A Value Creation Specialist (10 YoE) focused on optimising corporate performance across commercial and operational levers. My profile combines Investment Acumen (CFA Level 2 & Nomura Investment Strategy) with deep SaaS Operating Expertise (scaling Customer Success/Delivery for a Series-C AI/SaaS platform). I possess a proven ability to diagnose bottlenecks, fix operational inefficiencies, implement margin-boosting initiatives, and drive strategic shifts (e.g., multi-tenant architecture migration) to maximise enterprise asset value for exit",
 
   employment: [
     {
-      title: "Senior Manager, Technical Customer Success",
+      title: "Principal Product Manager",
       company: "AiDash",
       location: "Gurgaon",
       period: "February 2023 — Present",
       achievements: [
-        "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
+        "Started in Customer Success function, a year later moved to Professional Services and then to Product Management. All switches were led by company priorities and curiosity to solve complex cross-functional technical problems. Currently, reporting to **Field CTO**",
         "(P&L Impact) Protected and grew $15M+ ARR (50% of revenue), securing **over-100% Net Dollar Retention** through rigorous business value consulting and **operational excellence** in delivering satellite analytics and software deployment for 30+ enterprise customers",
         "(Cost Rationalisation) Directly improved **EBITDA margins** by re-engineering satellite imagery acquisition and optimising for area of interest to detect no-vegetation areas to reduce unnecessary spend, thereby, saving **$150K annually**",
         "(Operational Scalability) Built an in-house GTM-enablement platform unifying fragmented customer data (Salesforce, CS files, product config) and automating high-touch workflows to self-serve, cutting **Time-To-Value from 2 weeks to 1 day** and giving CSMs a 360° view (usage, NPS) to improve account efficacy and accelerate activation",
@@ -282,9 +282,9 @@ export const resumeVersion2: ResumeData = {
       grades: "CGPA 8.2/10",
     },
     {
-      degree: "Level 3 Candidate",
+      degree: "Level 2 Cleared",
       institution: "CFA Institute",
-      period: "August 2026",
+      period: "2017",
     },
   ],
 
@@ -353,12 +353,12 @@ export const resumeVersion3: ResumeData = {
 
   employment: [
     {
-      title: "Senior Manager, Technical Customer Success",
+      title: "Principal Product Manager",
       company: "AiDash",
       location: "Gurgaon",
       period: "February 2023 — Present",
       achievements: [
-        "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
+        "Started in Customer Success function, a year later moved to Professional Services and then to Product Management. All switches were led by company priorities and curiosity to solve complex cross-functional technical problems. Currently, reporting to **Field CTO**",
         "(Customer Success) Led business value consulting and project management for analytics delivery and software deployment for 30+ enterprise customers ($15M ARR) resulting in **over-100% NDR** and gaining insight into future revenue-generating features for large enterprises",
         "(Platform Scalability) Led the strategic migration from single-tenant to multi-tenant architecture, converting bespoke customisations to 50+ customers into scalable General Availability (GA) features and building qualification framework for new customisation requests",
         "(GTM Product) Led development of an in-house **GTM-enablement product** that unified customer data across Salesforce, CS systems and product configuration, and turned high-touch workflows like onboarding into self-serve; **cut Time-To-Value from 2 weeks to 1 day** and surfaced 360° customer context (usage, NPS) for CSMs",
@@ -419,9 +419,9 @@ export const resumeVersion3: ResumeData = {
       grades: "CGPA 8.2/10",
     },
     {
-      degree: "Level 3 Candidate",
+      degree: "Level 2 Cleared",
       institution: "CFA Institute",
-      period: "August 2026",
+      period: "2017",
     },
   ],
 
@@ -490,12 +490,12 @@ export const resumeVersion4: ResumeData = {
 
   employment: [
     {
-      title: "Senior Manager, Technical Customer Success",
+      title: "Principal Product Manager",
       company: "AiDash",
       location: "Gurgaon",
       period: "February 2023 — Present",
       achievements: [
-        "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
+        "Started in Customer Success function, a year later moved to Professional Services and then to Product Management. All switches were led by company priorities and curiosity to solve complex cross-functional technical problems. Currently, reporting to **Field CTO**",
         "(Program Management) Led business value consulting and project management for analytics delivery and software deployment for 30+ enterprise customers ($15M ARR) resulting in **over-100% NDR** through deep cross-functional alignment across Product, Engineering, GIS, Data Science, Platform and Professional Services",
         "(Operational Efficiency) Led a massive **org-wide shift** from ad-hoc operations of satellite analytics and software delivery operations to **Jira-enabled Agile processes**, significantly improving on-time delivery rates and resolving communication silos",
         "(Executive Projects) Led high-stakes cost optimisation exercise with a goal to **improve Gross Margin by 6%**. Directly contributed to satellite imagery cost reduction by optimising area of interest algorithm to detect no-vegetation areas, resulting in **$150K savings**",
@@ -555,9 +555,9 @@ export const resumeVersion4: ResumeData = {
       grades: "CGPA 8.2/10",
     },
     {
-      degree: "Level 3 Candidate",
+      degree: "Level 2 Cleared",
       institution: "CFA Institute",
-      period: "August 2026",
+      period: "2017",
     },
   ],
 
@@ -625,12 +625,12 @@ export const resumeVersion5: ResumeData = {
 
   employment: [
     {
-      title: "Senior Manager, Technical Customer Success",
+      title: "Principal Product Manager",
       company: "AiDash",
       location: "Gurgaon",
       period: "February 2023 — Present",
       achievements: [
-        "Hopped between multiple functions like Customer Success, Project/Program Management and Product Management to solve complex technical problems requiring holistic understanding. Currently, reporting to **Field CTO**",
+        "Started in Customer Success function, a year later moved to Professional Services and then to Product Management. All switches were led by company priorities and curiosity to solve complex cross-functional technical problems. Currently, reporting to **Field CTO**",
         "(Value Consulting) Orchestrated end-to-end value journeys for 30+ enterprise accounts (**$15M+ ARR**), navigating complex multi-disciplinary environments (Data Science, GIS, Engineering) to achieve **>100% NDR** and secure long-term renewals through data-driven business cases and executive-level roadmaps",
         "(Operational Efficiency) Led product development of an in-house **GTM-enablement platform** unifying customer data across Salesforce, CS systems and product configuration, and automating high-touch workflows like onboarding to self-serve; reduced Time-to-Value from ~2 weeks to **<1 day** and made 360° customer context (usage, NPS) available to CSMs",
         "(Process Intelligence) Led the **organizational transition** from single-tenant to multi-tenant systems by analyzing business flows across 50+ customers; identified and standardized high-value customizations into GA product features, effectively reducing technical debt while accelerating platform adoption",
@@ -690,9 +690,9 @@ export const resumeVersion5: ResumeData = {
       grades: "CGPA 8.2/10",
     },
     {
-      degree: "Level 3 Candidate",
+      degree: "Level 2 Cleared",
       institution: "CFA Institute",
-      period: "August 2026",
+      period: "2017",
     },
   ],
 

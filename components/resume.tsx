@@ -92,14 +92,14 @@ export function Resume({ data }: { data: ResumeData }) {
 
         {/* Skills */}
         <Section title="SKILLS">
-          <div className="flex flex-wrap gap-1.5">
+          <p className="text-[13px] leading-[1.2] print:leading-[1.15] text-foreground/90">
             {data.skills.map((skill, index) => (
-              <span key={index} className="text-[13px] text-foreground/90">
+              <span key={index}>
                 {parseFormattedText(skill)}
-                {index < data.skills.length - 1 && ","}
+                {index < data.skills.length - 1 && ", "}
               </span>
             ))}
-          </div>
+          </p>
         </Section>
 
         {/* Hobbies */}
