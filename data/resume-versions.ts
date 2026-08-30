@@ -74,7 +74,7 @@ export const resumeVersion1: ResumeData = {
   hobbies: ["Travelling (~25 countries)", "Cultural exploration", "Music", "Marathon"],
 
   profile:
-    "An experienced **Transformation Leader (10 YoE)** with a unique hybrid skillset in **Strategy, Process Excellence, Customer Success and Applied AI**. I bridge the gap between strategy and execution, having successfully led major digital shifts, including implementing Agile-based delivery and automating mission-critical workflows at high-growth AI ventures. My strength is driving value in uncharted territories, helping multi-billion dollar clients (Japan/Asia) make better strategic decisions and implementing the necessary operational change to see them through",
+    "An experienced **Transformation Leader (11 YoE)** with a unique hybrid skillset in **Strategy, Process Excellence, Customer Success and Applied AI**. I bridge the gap between strategy and execution, having successfully led major digital shifts, including implementing Agile-based delivery and automating mission-critical workflows at high-growth AI ventures. My strength is driving value in uncharted territories, helping multi-billion dollar clients (Japan/Asia) make better strategic decisions and implementing the necessary operational change to see them through",
 
   employment: [
     {
@@ -212,7 +212,7 @@ export const resumeVersion2: ResumeData = {
   hobbies: ["Travelling (~25 countries)", "Cultural exploration", "Music", "Marathon"],
 
   profile:
-    "A Value Creation Specialist (10 YoE) focused on optimising corporate performance across commercial and operational levers. My profile combines Investment Acumen (CFA Level 2 & Nomura Investment Strategy) with deep SaaS Operating Expertise (scaling Customer Success/Delivery for a Series-C AI/SaaS platform). I possess a proven ability to diagnose bottlenecks, fix operational inefficiencies, implement margin-boosting initiatives, and drive strategic shifts (e.g., multi-tenant architecture migration) to maximise enterprise asset value for exit",
+    "A Value Creation Specialist (11 YoE) focused on optimising corporate performance across commercial and operational levers. My profile combines Investment Acumen (CFA Level 2 & Nomura Investment Strategy) with deep SaaS Operating Expertise (scaling Customer Success/Delivery for a Series-C AI/SaaS platform). I possess a proven ability to diagnose bottlenecks, fix operational inefficiencies, implement margin-boosting initiatives, and drive strategic shifts (e.g., multi-tenant architecture migration) to maximise enterprise asset value for exit",
 
   employment: [
     {
@@ -349,7 +349,7 @@ export const resumeVersion3: ResumeData = {
   hobbies: ["Travelling (~25 countries)", "Cultural exploration", "Music", "Marathon"],
 
   profile:
-    "A multi-disciplinary leader (10 YoE) with a unique hybrid skillset in Strategy, Product, Applied AI and Customer Success. With experience of working with AI-SaaS for Enterprises and Market Network Platform for Rural India, my background combines the 0-to-1 mindset of a Founder (scaling a venture to 50K+ users) with the 1-to-N scaling expertise of a Series-C AI-SaaS leader. With foundational training from IIT and global market exposure (Asia, ME, US), I excel at translating complex C-suite needs into clear, revenue-driving product roadmaps and managing technical debt to deliver durable value",
+    "A multi-disciplinary leader (11 YoE) with a unique hybrid skillset in Strategy, Product, Applied AI and Customer Success. With experience of working with AI-SaaS for Enterprises and Market Network Platform for Rural India, my background combines the 0-to-1 mindset of a Founder (scaling a venture to 50K+ users) with the 1-to-N scaling expertise of a Series-C AI-SaaS leader. With foundational training from IIT and global market exposure (Asia, ME, US), I excel at translating complex C-suite needs into clear, revenue-driving product roadmaps and managing technical debt to deliver durable value",
 
   employment: [
     {
@@ -486,7 +486,7 @@ export const resumeVersion4: ResumeData = {
   hobbies: ["Travelling (~25 countries)", "Cultural exploration", "Music", "Marathon"],
 
   profile:
-    "A high-impact, T-shaped Generalist and former Founder with 10 years of experience operating at the nexus of strategy, execution, and technology. With an IIT and CFA foundation in education, I thrive in managing ambiguous, high-priority initiatives for the CEO/CTO. My expertise spans starting a tech venture, scaling an AI-SaaS organisation globally (US/Asia), and providing C-suite advisory (Nomura). I am the ideal proxy for driving cross-functional alignment and delivering value where traditional organisational structures cannot",
+    "A high-impact, T-shaped Generalist and former Founder with 11 years of experience operating at the nexus of strategy, execution, and technology. With an IIT and CFA foundation in education, I thrive in managing ambiguous, high-priority initiatives for the CEO/CTO. My expertise spans starting a tech venture, scaling an AI-SaaS organisation globally (US/Asia), and providing C-suite advisory (Nomura). I am the ideal proxy for driving cross-functional alignment and delivering value where traditional organisational structures cannot",
 
   employment: [
     {
@@ -621,7 +621,7 @@ export const resumeVersion5: ResumeData = {
   hobbies: ["Travelling (~25 countries)", "Cultural exploration", "Music", "Marathon"],
 
   profile:
-    "A Technically Fluent Leader (10 YoE) specialising in advanced AI-SaaS deployment and Customer Value Realisation. My experience includes leading professional services for a high-growth AI platform, implementing complex satellite analytics solutions for global enterprises. I combine strong technical understanding and business acumen with deep hands-on experience in workflow automation and leveraging emerging tech like GenAI to architect and deliver scalable, high-impact technical solutions for key accounts",
+    "A Technically Fluent Leader (11 YoE) specialising in advanced AI-SaaS deployment and Customer Value Realisation. My experience includes leading professional services for a high-growth AI platform, implementing complex satellite analytics solutions for global enterprises. I combine strong technical understanding and business acumen with deep hands-on experience in workflow automation and leveraging emerging tech like GenAI to architect and deliver scalable, high-impact technical solutions for key accounts",
 
   employment: [
     {
